@@ -11,4 +11,4 @@ Experiment 6: (sorting and merging)
 💻 Language Used
 C Programming
 👨‍🎓 Author
-Saikh Ashad
+Rishabh Raj
